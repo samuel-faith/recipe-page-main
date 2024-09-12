@@ -1,0 +1,113 @@
+:root {
+    --header-color: #000;
+    --sub-heading-color: #854632;
+    --font-family-heading: "Young Serif", serif;
+    --font-family-body: "Outfit", sans-serif;
+    --body-background-color: #f3e6d8;
+}
+
+body {
+    background-color: var(--body-background-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.recipe {
+    background-color: #fff;
+    border-radius: .5rem;
+    padding: 1rem 1rem 1.5rem 1rem;
+    width: 90%px;
+    max-width: 350px;
+}
+
+.prep-container {
+    background-color: #fff5fa;
+}
+
+.prep-container ul {
+    margin-top: 0;
+    padding-bottom: .5rem;
+}
+
+#prep {
+    padding: 1rem 0 0;
+    margin-left: 1.5rem;
+    font-size: .6rem;
+    font-weight: 600;
+}
+
+.brown {
+    font-family: var(--font-family-heading);
+    color: var(--sub-heading-color);
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+#heading {
+    color: black;
+    font-size: 1.35rem;
+}
+
+p, li {
+    font-family: var(--font-family-body);
+    font-size: .6rem;
+    padding: 0 0 .5rem 0;
+}
+
+.list {
+    padding: 0 0 0 1rem;
+}
+
+li::marker{
+    color: #854632;
+    font-weight: 900;
+}
+
+.inst {
+    font-weight: 700;
+}
+
+.nut {
+    display: flex;
+    margin-left: 10rem;
+    color: var(--sub-heading-color);
+    font-weight: 800;
+    margin-top: -0.6rem;
+}
+
+.nut-items {
+    margin: 0.8rem 0 0 1.5rem;
+}
+
+.items {
+    display: block;
+    margin-left: .5rem;
+}
+
+hr {
+    height: .01rem;
+    background-color: #e4ded8;
+    border: none;
+}
+
+img {
+    max-width: 100%;
+    border-radius: .5rem;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color:#854632; 
+    font-weight: 900;
+}
+
+footer {
+    margin-top: 2rem;
+}
