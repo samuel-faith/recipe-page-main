@@ -1,14 +1,14 @@
 # Frontend Mentor - Social Links Profile Solution
 
-This is my solution to the Social Links Profile challenge on Frontend Mentor
+This is my solution to the Recipe Page challenge on Frontend Mentor
 
 
-![](./solution.jpg)
+![](./solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/samuel-faith/social-links-profile-main)
-- Live Site URL: [Add live site URL here](https://samuel-faith.github.io/social-links-profile-main//)
+- Solution URL: [Add solution URL here](https://github.com/samuel-faith/recipe-page-main)
+- Live Site URL: [Add live site URL here](https://samuel-faith.github.io/recipe-page-main/)
 
 ## My process
 
@@ -16,7 +16,3 @@ This is my solution to the Social Links Profile challenge on Frontend Mentor
 
 - Semantic HTML5 markup
 - CSS custom properties
-
-### What I learned
-
-Use of CSS propoerties and Grid properties to position components on web pages, and make them mobile responsive.
