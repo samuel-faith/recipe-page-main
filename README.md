@@ -1,4 +1,4 @@
-# Frontend Mentor - Social Links Profile Solution
+# Frontend Mentor - Recipe Page Solution
 
 This is my solution to the Recipe Page challenge on Frontend Mentor
 
